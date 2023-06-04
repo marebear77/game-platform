@@ -1,0 +1,94 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title> inventory </title>
+</head>
+
+<body> 
+<h1> What We Sell </h1>
+  <p> Don't see what you're looking for? Give us a call at - </p> <!-- insert store phone number -->
+<div id= "consoles">
+  <h2> Consoles </h2>
+  <p> Every console purchase comes with: </p>
+    <ul>
+      <li> AV cable </li>
+      <li> AC adapter </li>
+      <li> ONE controller </li>
+      <li> 10% off a second controller </li>
+      <li> 10% off a game for console </li>
+      <li> a 30 day return/exchange warrenty with reciept or phone number </li>
+    </ul> 
+  <h3> Nintendo Consoles </h3>
+  <h4> Wii </h4>
+    <ul> 
+      <li> Price: $153-$189.99 </li>
+      <li> Condition: used, good condition </li>
+    </ul>
+  <h4> Gamecube </h4> 
+      <ul>
+        <li> Price: 200$ </li>
+        <li> Condition: used, good condition </li>
+      </ul>
+  <h4> Nintendo 64 </h4>
+    <ul>
+      <li> Price: $171-$190 </li>
+      <li> Condition: used, good condition </li>
+    </ul>
+  <h4> Nintendo Entertainment System </h4>
+    <ul> 
+      <li> Price: $59-$180 </li>
+      <li> Condition: used, good condition </li>
+    </ul>
+  <h4> Super Nintendo Entertainment System </h4> 
+    <ul> 
+      <li> Please call the store to check to see if we have this in stock! </li>
+    </ul>
+  <h4> Genesis </h4>
+    <ul>
+      <li> Price: $72-$160 </li>
+      <li> Conditon: used, in original box </li>
+    </ul>
+  <h4> Original DS </h4>
+    <ul>
+      <li> Price:$125-$200 </li>
+      <li> Condition: Ranging from very used to almost new </li>
+      <li> Colors: White, Red, Baby Blue, Baby Pink, and Silver </li>
+      <li> Comes with stylus </li>
+    </ul>
+  <h4> DSi </h4> 
+    <ul> 
+      <li> Price: $90-$200 </li>
+      <li> Condition: Ranges from very used to like new </li>
+      <li> Colors: White and Black </li>
+      <li> Comes with stylus </li>
+    </ul>
+  <h4> DS lite </h4> 
+    <ul> 
+      <li> Price: $116-$170 </li>
+      <li> Condition: used, good condition </li>
+      <li> Colors: Dark Blue, Dark Blue, Aquamarine, and Rose Gold </li>
+      <li> Comes with stylus </li>
+    </ul>
+  <h4> DSi XL </h4>
+    <ul>
+      <li> Price: $90-$260 <li>
+      <li> Condition: Ranges from amost new to system issues (only shows japanese text) </li>
+      <li> Colors: Maroon and Metallic Silver </li>
+      <li> Comes with original or different stylus </li>
+    </ul>
+  <h4> DSi LL </h4>
+    <ul>
+      <li> Price: $225-$260 </li>
+      <li> Condition: almost new </li> 
+      <li> Colors: Maroon </li>
+      <li> Comes with original stylus </li>
+    </ul>
+  <h4> Gameboy, Gameboy Pocket, Gameboy Color, etc </h4>
+    <ul> 
+      <li> Please call store to check if these are in stock </li>
+    </ul>
+  <h4> 
+    
+    
+</body>
+</html>
