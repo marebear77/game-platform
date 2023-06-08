@@ -6,7 +6,8 @@
 
 <body> 
 <h1> What We Sell </h1>
-  <p> Don't see what you're looking for? Give us a call at - </p> <!-- insert store phone number -->
+  <p> Don't see what you're looking for? Give us a call at - </p> <!-- insert store phone number --> 
+  
 <div id= "consoles">
   <h2> Consoles </h2>
   <p> Every console purchase comes with: </p>
@@ -87,7 +88,101 @@
     <ul> 
       <li> Please call store to check if these are in stock </li>
     </ul>
-  <h4> 
+  <h4> Nintendo Switch/ Switch Lite </h4>
+    <ul> 
+      <li> Price: $172-$190 </li>
+      <li> Condition: almost new </li>
+    </ul>
+  
+  <h3> PlayStation Consoles </h3> 
+  <h4> Original Playstation </h4>
+    <ul>
+      <li> Price: $157-$170 </li>
+      <li> Condition: ranges from very used to hardly used </li>
+    </ul>
+  <h4> Playstation 2 </h4> 
+    <ul>
+      <li> Price: $180-$200 </li>
+      <li> Condition: used, good condition </li>
+    </ul>
+ <h4> Playstation 3 </h4>
+   <ul>
+     <li> Price: $260-$290 </li>
+     <li> Condition: almost new </li>
+   </ul>
+ <h4> Playstation 4 </h4> 
+   <ul>
+     <li> Price: $270-$300 </li>
+     <li> Condition: used, good condition </li>
+<h4> PSP/PSVita </h4>
+  <ul>
+    <li> Price: $180-$300 </li>
+    <li> Conditon: used, ranges from like new to modified </li>
+  </ul> 
+
+
+<h3> XBOX Consoles </h3>
+<h4> Original Xbox </h4>
+  <ul>
+    <li> Price: $153-$180 </li>
+    <li> Condition: used, good condition </li>
+  <ul>
+<h4> Xbox 360 <h4>
+  <ul>
+    <li> Price: $125-$225 </li>
+    <li> Condition: Ranges from very used to good condition </li>
+  </ul>
+<h4> Xbox One </h4>
+  <ul> 
+    <li> Price: $270-$300 </li>
+    <li> Conditon: hardly used, good condition </li>
+  <ul>
+<h4> Xbox One Series S </h4>
+  <ul>
+    <li> Price: $360-$400 </li>
+    <li> Condition: like new </li>
+  </ul>
+  
+<div= "games">
+<h2> Games <h2>
+  
+<h3> Nintendo Games <h3>
+  
+<h4> Mario: <h4>
+  <ul>
+    <li> MarioKart 8 Deluxe </li>
+    <li> Super Mario Sunshine (Gamecube, $80)
+    <li> Super Mario Bros. Deluxe (Switch, $70) </li>
+    <li> Mario Golf (Switch, $40) </li>
+    <li> Mario Strikers Charged (Wii, $50) </li>
+    <li> Super Mario Maker (Wii U, $40) </li>
+    <li> Mario Paint (SNES, $35) </li>
+  </ul>
+<h4>The Legend Of Zelda: <h4>
+  <ul> 
+    <li> Breathe of the Wild (Wii U, 48$) </li>
+<h4> Skylander <h4>
+  <ul>
+    <li> Giants (Wii, $8-$32) </li>
+    <li> Spyros Adventure (Wii, $20) </li>
+    <li> Swap Force (Wii, $10; Wii U, $10) </li>
+    <li> SuperChargers (Wii U, $15-$20) </li>
+  </ul>
+<h4> Sims: </h4>
+  <ul>
+    <li> Sims 2: Pets (Wii, $33) </li>
+    <li> My Sims: Sky Heroes (Wii, $20) </li>
+    <li> Sims 3 (Wii, $30) </li>
+  </ul>
+<h4> Madden <h4>
+  <ul>
+    <li> NFL 2006 (Gameboy, $18) </li>
+    <li> NFL 2009 (Wii, $17) </li>
+    <li> NFL 2010 (Wii, $50) </li>
+    <li> NFL 2011 (Wii, $20) </li>
+    <li> NFL 2013 (Wii U, $23) </li>
+
+    
     
     
 </body>
